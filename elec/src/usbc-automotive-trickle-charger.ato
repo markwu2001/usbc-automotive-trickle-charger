@@ -1,0 +1,2 @@
+module UsbcAutomotiveTrickleCharger:
+    signal gnd

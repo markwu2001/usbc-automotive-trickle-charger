@@ -1,0 +1,6 @@
+ato-version: ^0.2.0
+builds:
+  default:
+    entry: elec/src/usbc-automotive-trickle-charger.ato:UsbcAutomotiveTrickleCharger
+dependencies:
+- generics
