@@ -1,0 +1,16 @@
+component CN3768:
+    # component CN3768
+    footprint = "SOP-8_L4.9-W3.9-P1.27-LS6.0-BL"
+    designator_prefix = "U"
+    lcsc_id = "C133398"
+    mpn = "C133398"
+    # pins
+    signal VG ~ pin 1
+    signal GND ~ pin 2
+    signal CHRG_hash ~ pin 3
+    signal COM ~ pin 4
+    signal BAT ~ pin 5
+    signal CSP ~ pin 6
+    signal VCC ~ pin 7
+    signal DRV ~ pin 8
+

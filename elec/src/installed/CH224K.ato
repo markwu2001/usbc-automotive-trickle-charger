@@ -1,0 +1,19 @@
+component CH224K:
+    # component CH224K
+    footprint = "ESSOP-10_L4.9-W3.9-P1.0-LS6.0-TL-EP"
+    designator_prefix = "U"
+    lcsc_id = "C970725"
+    mpn = "C970725"
+    # pins
+    signal VDD ~ pin 1
+    signal CFG2 ~ pin 2
+    signal CFG3 ~ pin 3
+    signal DP ~ pin 4
+    signal DM ~ pin 5
+    signal CC2 ~ pin 6
+    signal CC1 ~ pin 7
+    signal VBUS ~ pin 8
+    signal CFG1 ~ pin 9
+    signal PG ~ pin 10
+    signal GND ~ pin 11
+

@@ -1,2 +1,6 @@
+from "powerDeliveryUSBC.ato" import powerDeliveryUSBC
+
 module UsbcAutomotiveTrickleCharger:
     signal gnd
+
+    powerDelivery = new powerDeliveryUSBC
